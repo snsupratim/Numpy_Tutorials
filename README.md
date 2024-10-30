@@ -1,12 +1,6 @@
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b1efe05b-f742-4326-9fe0-c0e1747fc06e/1a2088ad-9a07-4f86-bdb8-255a4df2b743/image.png)
-
 ### What is Numpy?
 
 **NumPy** (short for _Numerical Python_) is a powerful open-source library in Python used for scientific computing and data analysis. It provides support for large, multi-dimensional arrays and matrices, along with a wide variety of mathematical functions to operate on these data structures efficiently.
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b1efe05b-f742-4326-9fe0-c0e1747fc06e/2844bfff-2a12-49c6-bceb-f32e8c634d02/image.png)
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b1efe05b-f742-4326-9fe0-c0e1747fc06e/ef7c6295-c143-4c21-9d9c-7ddafabcdc10/image.png)
 
 Here’s a breakdown of what makes NumPy essential:
 
